@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.seedOnStart",
+      "type": "java.lang.Boolean",
+      "description": "If true, database will be seeded on application start.",
+      "defaultValue": false
+  }
+] }

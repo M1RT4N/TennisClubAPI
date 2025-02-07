@@ -9,5 +9,4 @@ public class TennisClubApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(TennisClubApiApplication.class, args);
     }
-
 }
